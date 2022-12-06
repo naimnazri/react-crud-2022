@@ -1,0 +1,19 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Naim",
+      "role": "Front-end Developer"
+    },
+    {
+      "name": "AKmal",
+      "role": "Power BI",
+      "id": 2
+    },
+    {
+      "name": "<h1>Hello World</h1>",
+      "role": "\"Select * From Employee\"",
+      "id": 3
+    }
+  ]
+}
